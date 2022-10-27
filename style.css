@@ -3,11 +3,22 @@
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', sans-serif;
     font-size: 45px;
-    }
+}
 
 body {
     background-color: #c5ffc2;
     color: #030b82;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
